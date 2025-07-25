@@ -105,7 +105,7 @@ My research focuses on improving the **Efficiency** of large language models, in
   *Feb. 2024 – Jun. 2024*
   Mentored by Dr. [Zhi Chen](https://donmaclean7.github.io/), Dr. [Hang Yan](https://www.aminer.cn/profile/hang-yan/53f440a0dabfaee4dc7bff59)
   
-- **Microsoft STCA**, Research Intern in Webpage Entity Extraction
+- **Microsoft STCA**, Research Intern in Webpage Entity Extraction  
   *Aug. 2022 – Mar. 2023*
   Mentored by Principal Applied Scientist Manager [Linjun Shou](https://www.microsoft.com/en-us/research/people/lisho/)
 
