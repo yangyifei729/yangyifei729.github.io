@@ -36,15 +36,26 @@ I am a final year PhD candidate at Shanghai Jiao Tong University, supervised by 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-# Educations
+# 📖 Education
 
-- *2021.09 - 2026.6 (expected)*, Ph.D.@SJTU, Computer Science
-- *2017.09 - 2021.06*, B.S.@CSU, Computer Science.
+- *Sep. 2021 – Jun. 2026 (expected)*, Ph.D. in Computer Science, Shanghai Jiao Tong University (SJTU)
+- *Sep. 2017 – Jun. 2021*, B.S. in Computer Science, Central South University (CSU)
 
-# Service
+# 💻 Internships
 
-- Reviewer: ACL, EMNLP, ICLR, AAAI, NeurIPS, TASLP, TMC
+- **Shanghai Artificial Intelligence Laboratory**, Research Intern in Large-scale Models  
+  *Feb. 2024 – Jun. 2024*
+  Mentored by Dr. [Zhi Chen](https://donmaclean7.github.io/), Dr. [Hang Yan](https://www.aminer.cn/profile/hang-yan/53f440a0dabfaee4dc7bff59)
+  
+- **Microsoft STCA**, Research Intern in Webpage Entity Extraction
+  *Aug. 2022 – Mar. 2023*
+  Mentored by Principal Applied Scientist Manager [Linjun Shou](https://www.microsoft.com/en-us/research/people/lisho/)
 
-# MISC
-I have a passion for various sports, including road cycling🚴, fitness training💪, and basketball🏀 :)
+# 🛠️ Service
+
+- Reviewer for ACL, EMNLP, ICLR, AAAI, NeurIPS, TASLP, TMC
+
+# 🎯 Miscellaneous
+
+I have a passion for various sports, including road cycling 🚴, fitness training 💪, and basketball 🏀 :)
 
