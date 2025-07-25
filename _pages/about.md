@@ -27,11 +27,11 @@ My research focuses on improving the **Efficiency** of large language models, in
 <font color="red"><b>🔍 I am actively looking for a PostDoc position. Please feel free to reach out if you have a suitable opportunity!🙂</b></font>
 
 
-# 📝 Publications 
+# 📝 Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- 🔹 **Deep Residual Learning for Image Recognition**,  
+  *Kaiming He*, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
+  [CVPR 2016 Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 
 
