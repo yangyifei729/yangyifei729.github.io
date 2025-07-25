@@ -29,11 +29,11 @@ My research focuses on improving the **Efficiency** of large language models, in
 
 # 📝 Publications
 
-- **[LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794)**
+- **[LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794)**    
   **Yifei Yang**, Zouying Cao, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao  
   *ACL 2025*
 
-- **LaCo: Large language model pruning via layer collapse**
+- **LaCo: Large language model pruning via layer collapse**    
   **Yifei Yang**, Zouying Cao, Hai Zhao  
   *EMNLP 2025, Findings*
 
