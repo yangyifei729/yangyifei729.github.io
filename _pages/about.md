@@ -39,7 +39,7 @@ My research focuses on improving the **Efficiency** of large language models, in
 
 - **BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**,  
   **Yifei Yang***, Runhan Shi*, Zuchao Li, Shu Jiang, Bao-Liang Lu, Qibin Zhao, Yang Yang, Hai Zhao  
-  *Research Journal, SCI (Q1 Top Journal)*
+  *Research, SCI (Q1 Top Journal)*
 
 - **Nothing in excess: Mitigating the exaggerated safety for llms via safety-conscious activation steering**,  
   Zouying Cao, **Yifei Yang**, Hai Zhao  
