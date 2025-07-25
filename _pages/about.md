@@ -29,67 +29,68 @@ My research focuses on improving the **Efficiency** of large language models, in
 
 # 📝 Publications
 
-- **LESA: Learnable LLM Layer Scaling-Up**,  
+- **[LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794)**
   **Yifei Yang**, Zouying Cao, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao  
   *ACL 2025*
 
-- **LaCo: Large language model pruning via layer collapse**,  
+- **LaCo: Large language model pruning via layer collapse**
   **Yifei Yang**, Zouying Cao, Hai Zhao  
   *EMNLP 2025, Findings*
 
-- **BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**,  
+- **BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**
   **Yifei Yang***, Runhan Shi*, Zuchao Li, Shu Jiang, Bao-Liang Lu, Qibin Zhao, Yang Yang, Hai Zhao  
   *Research, SCI (Q1 Top Journal)*
 
-- **Nothing in excess: Mitigating the exaggerated safety for llms via safety-conscious activation steering**,  
+- **Nothing in excess: Mitigating the exaggerated safety for llms via safety-conscious activation steering**
   Zouying Cao, **Yifei Yang**, Hai Zhao  
   *AAAI 2025*
 
-- **FreDF: Learning to Forecast in Frequency Domain**,  
+- **FreDF: Learning to Forecast in Frequency Domain**
   Hao Wang, Licheng Pan, Zhichao Chen, Degui Yang, Sen Zhang, **Yifei Yang**, Xinggao Liu, Haoxuan Li, Dacheng Tao  
   *ICLR 2025*
 
-- **KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**,  
+- **KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**
   **Yifei Yang**, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Zhi Chen, Hai Zhao  
   *Preprint*
 
-- **Head-wise Shareable Attention for Large Language Models**,  
-  Zouying Cao, **Yifei Yang**, Hai Zhao  
-  *EMNLP 2024, Findings*
-
-- **Hypertext Entity Extraction in Webpage**,  
-  **Yifei Yang**, Tianqiao Liu, Bo Shao, Hai Zhao, Linjun Shou, Ming Gong, Daxin Jiang  
-  *Preprint*
-
-- **Autohall: Automated hallucination dataset generation for large language models**,  
-  Zouying Cao*, **Yifei Yang***, Hai Zhao  
-  *Preprint*
-
-- **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**,  
+- **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**
   Yao Yao, **Yifei Yang**, Xinbei Ma, Dongjie Yang, Zhuosheng Zhang, Zuchao Li, Hai Zhao  
   *Preprint*
 
-- **CMMLU: Measuring Massive Multitask Language Understanding in Chinese**,  
+- **Head-wise Shareable Attention for Large Language Models**
+  Zouying Cao, **Yifei Yang**, Hai Zhao  
+  *EMNLP 2024, Findings*
+
+- **Hypertext Entity Extraction in Webpage**
+  **Yifei Yang**, Tianqiao Liu, Bo Shao, Hai Zhao, Linjun Shou, Ming Gong, Daxin Jiang  
+  *Preprint*
+
+- **Autohall: Automated hallucination dataset generation for large language models**
+  Zouying Cao*, **Yifei Yang***, Hai Zhao  
+  *Preprint*
+
+
+- **CMMLU: Measuring Massive Multitask Language Understanding in Chinese**
   Haonan Li, Yixuan Zhang, Fajri Koto, **Yifei Yang**, Hai Zhao, Yeyun Gong, Nan Duan, Timothy Baldwin  
   *ACL 2024, Findings*
 
-- **Attack Named Entity Recognition by Entity Boundary Interference**,  
+- **Attack Named Entity Recognition by Entity Boundary Interference**
   **Yifei Yang***, Hongqiu Wu*, Hai Zhao  
   *COLING 2024*
 
-- **RefGPT: Dialogue Generation of GPT, by GPT, and for GPT**,  
+- **RefGPT: Dialogue Generation of GPT, by GPT, and for GPT**
   Dongjie Yang, Ruifeng Yuan, Yuantao Fan, **Yifei Yang**, Zili Wang, Shusen Wang, Hai Zhao  
   *EMNLP 2023, Findings*
 
-- **BATGPT: A Bidirectional Autoregressive Talker from Generative Pre-trained Transformer**,  
+- **BATGPT: A Bidirectional Autoregressive Talker from Generative Pre-trained Transformer**
   Zuchao Li, Shitou Zhang, Hai Zhao, **Yifei Yang**, Dongjie Yang  
   *Preprint*
 
-- **Aspect-based sentiment analysis as machine reading comprehension**,  
+- **Aspect-based sentiment analysis as machine reading comprehension**
   **Yifei Yang**, Hai Zhao  
   *COLING 2022*
 
-- **Nested Named Entity Recognition as Corpus Aware Holistic Structure Parsing**,  
+- **Nested Named Entity Recognition as Corpus Aware Holistic Structure Parsing**
   **Yifei Yang***, **Zuchao Li***, Hai Zhao  
   *COLING 2022*
 
