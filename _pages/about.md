@@ -22,7 +22,7 @@ redirect_from:
 
 I am a final-year Ph.D. candidate at Shanghai Jiao Tong University, supervised by [Prof. Hai Zhao](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=60), majoring in Computer Science. Before that, I received my B.S. degree in Computer Science from Central South University in 2021.
 
-My research focuses on improving the *Efficiency* of large language models, including but not limited to model pruning, efficient training, and KV cache optimization.
+My research focuses on improving the **Efficiency** of large language models, including but not limited to model pruning, efficient training, and KV cache optimization.
 
 <font color="red"><b>🔍 I am actively looking for a PostDoc position. Please feel free to reach out if you have a suitable opportunity!</b></font> 🙂
 
